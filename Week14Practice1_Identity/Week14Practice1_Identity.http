@@ -1,0 +1,6 @@
+@Week14Practice1_Identity_HostAddress = http://localhost:5214
+
+GET {{Week14Practice1_Identity_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
